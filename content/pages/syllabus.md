@@ -578,7 +578,7 @@ Divergence Theorem
 39
 {{< tdclose >}}
 {{< tdopen >}}
-Minimal Surfaces ([PDF](/courses/mathematics/18-024-multivariable-calculus-with-theory-spring-2011/Syllabus/MIT18_024S11_ses39notes.pdf))
+Minimal Surfaces ({{% resource_link "7c937319-b215-466c-dc63-b7f806de0d08" "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
