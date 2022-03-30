@@ -24,7 +24,7 @@ TOPICS
 {{< anchor "A" >}}{{< /anchor >}}A
 {{< tdclose >}}
 {{< tdopen >}}
-Linear Spaces (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.1MB]({{< baseurl >}}/resources/mit18_024s11_chanotes))
+Linear Spaces ([PDF - 3.1MB]({{< baseurl >}}/resources/mit18_024s11_chanotes))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -33,7 +33,7 @@ Linear Spaces (![This resource may not render correctly in a screen reader.](/im
 {{< anchor "B_1" >}}{{< /anchor >}}B(1)
 {{< tdclose >}}
 {{< tdopen >}}
-Matrices (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.3MB]({{< baseurl >}}/resources/mit18_024s11_chb1notes))
+Matrices ([PDF - 2.3MB]({{< baseurl >}}/resources/mit18_024s11_chb1notes))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +42,7 @@ Matrices (![This resource may not render correctly in a screen reader.](/images/
 {{< anchor "B_2" >}}{{< /anchor >}}B(2)
 {{< tdclose >}}
 {{< tdopen >}}
-The inverse of a matrix (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.3MB]({{< baseurl >}}/resources/mit18_024s11_chb2notes))
+The inverse of a matrix ([PDF - 1.3MB]({{< baseurl >}}/resources/mit18_024s11_chb2notes))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +51,7 @@ The inverse of a matrix (![This resource may not render correctly in a screen re
 {{< anchor "C" >}}{{< /anchor >}}C
 {{< tdclose >}}
 {{< tdopen >}}
-Derivatives of vector functions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.6MB]({{< baseurl >}}/resources/mit18_024s11_chcnotes))
+Derivatives of vector functions ([PDF - 2.6MB]({{< baseurl >}}/resources/mit18_024s11_chcnotes))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +60,7 @@ Derivatives of vector functions (![This resource may not render correctly in a s
 {{< anchor "D" >}}{{< /anchor >}}D
 {{< tdclose >}}
 {{< tdopen >}}
-Notes on double integrals (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.1MB]({{< baseurl >}}/resources/mit18_024s11_chdnotes))
+Notes on double integrals ([PDF - 2.1MB]({{< baseurl >}}/resources/mit18_024s11_chdnotes))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +69,7 @@ Notes on double integrals (![This resource may not render correctly in a screen 
 {{< anchor "E" >}}{{< /anchor >}}E
 {{< tdclose >}}
 {{< tdopen >}}
-Green's Theorem and its applications (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.9MB]({{< baseurl >}}/resources/mit18_024s11_chenotes))
+Green's Theorem and its applications ([PDF - 2.9MB]({{< baseurl >}}/resources/mit18_024s11_chenotes))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,11 +78,11 @@ Green's Theorem and its applications (![This resource may not render correctly i
 {{< anchor "F" >}}{{< /anchor >}}F
 {{< tdclose >}}
 {{< tdopen >}}
-Stoke's Theorem (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.2MB]({{< baseurl >}}/resources/mit18_024s11_chfnotes))
+Stoke's Theorem ([PDF - 1.2MB]({{< baseurl >}}/resources/mit18_024s11_chfnotes))
 {{< tdclose >}}
 
 {{< trclose >}}
 
 {{< tableclose >}}
 
-Course notes as one file (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 15.7MB]({{< baseurl >}}/resources/mit18_024s11_cha_fnotes))
+Course notes as one file ([PDF - 15.7MB]({{< baseurl >}}/resources/mit18_024s11_cha_fnotes))
